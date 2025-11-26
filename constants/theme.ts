@@ -13,7 +13,7 @@ export const Colors = {
   lightGray: '#9B9B9B',
   orange: '#FF9427',
 
-
+  backgroundClear:"#FFFFFF",
   textPrimary: 'black',
   textSecondary: '#666666',
   background: '#000000',

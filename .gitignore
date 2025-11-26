@@ -1,4 +1,16 @@
-# Learn more https://docs.github.com/en/get-started/getting-started-with-git/ignoring-files
+node_modules/
+.expo/
+dist/
+build/
+.env
+.vscode/
+npm-debug.log
+yarn-error.log
+pnpm-lock.yaml
+/.expo
+android/
+ios/
+*.keystore# Learn more https://docs.github.com/en/get-started/getting-started-with-git/ignoring-files
 
 # dependencies
 node_modules/
