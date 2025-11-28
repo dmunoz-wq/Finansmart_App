@@ -1,0 +1,95 @@
+{
+  "tabs": {
+    "home": "Home",
+    "transactions": "Transactions",
+    "budgets": "Budgets",
+    "profile": "Profile"
+  },
+  "profile": {
+    "darkMode": "Dark Mode",
+    "language": "Language",
+    "account": "Account",
+    "notifications": "Notifications",
+    "support": "Support",
+    "proMember": "Pro Member"
+    ,"resetTotals": "Reset Totals"
+  },
+  "onboarding": {
+    "welcomeTitle": "Welcome to FinanSmart",
+    "welcomeDesc": "Manage your personal finances simply and beautifully.",
+    "alertsTitle": "Alerts & Budgets",
+    "alertsDesc": "Track your spending and get alerts as you approach limits.",
+    "skip": "Skip",
+    "next": "Next",
+    "getStarted": "Get started"
+  },
+  "auth": {
+    "login": "Sign In",
+    "signup": "Sign Up",
+    "emailPlaceholder": "Email",
+    "passwordPlaceholder": "Password",
+    "enter": "Enter",
+    "createAccount": "Create account"
+  },
+  "dashboard": {
+    "hello": "Hello,",
+    "totalBalance": "Total Balance",
+    "today": "Today",
+    "income": "Income",
+    "expense": "Expense",
+    "weeklySummary": "Weekly Summary",
+    "recentTransactions": "Recent Transactions",
+    "import": "Import",
+    "importTitle": "Import Transactions (JSON array)",
+    "importApply": "Apply"
+  },
+  "budgets": {
+    "monthlyBudget": "Monthly Budget",
+    "total": "Total",
+    "percentSpent": "{percent}% spent",
+    "categories": "Categories",
+    "create": "Create New Budget",
+    "set": "Set",
+    "divisions": "Divisions",
+    "createDivisions": "Default Divisions",
+    "clearDivisions": "Clear Divisions",
+    "noDivisions": "No divisions created yet.",
+    "info": "Budget",
+    "usingDefault": "Using project default budgets. You can set a monthly budget above.",
+    "addDivision": "Add Division",
+    "addDivisionTitle": "New Division",
+    "divisionName": "Division name (e.g. categories.food or 'extras')",
+    "divisionTotal": "Division total",
+    "resetMonth":"Reset Month"
+    ,"editDivisionTitle":"Edit Division"
+    ,"clearConfirmation":"Remove all divisions? This cannot be undone."
+  },
+  
+  "transactions": {
+    "search": "Search",
+    "newTransaction": "New Transaction",
+    "cancel": "Cancel",
+    "expense": "Expense",
+    "income": "Income",
+    "save": "Save",
+    "categoryPlaceholder": "Category",
+    "notePlaceholder": "Note (optional)",
+    "today": "Today",
+    "yesterday": "Yesterday"
+  },
+  "common": {
+    "create": "Create",
+    "cancel": "Cancel",
+    "search": "Search",
+    "reset": "Reset"
+    ,"resetToZero": "Reset To Zero"
+  },
+  "categories": {
+    "food": "Food",
+    "transport": "Transport",
+    "entertainment": "Entertainment",
+    "home": "Home",
+    "general": "General",
+    "work": "Work"
+  }
+}

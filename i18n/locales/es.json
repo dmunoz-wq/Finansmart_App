@@ -1,0 +1,95 @@
+{
+  "tabs": {
+    "home": "Inicio",
+    "transactions": "Movimientos",
+    "budgets": "Presup.",
+    "profile": "Perfil"
+  },
+  "profile": {
+    "darkMode": "Modo Oscuro",
+    "language": "Idioma",
+    "account": "Cuenta",
+    "notifications": "Notificaciones",
+    "support": "Soporte",
+    "proMember": "Miembro Pro"
+    ,"resetTotals": "Reiniciar totales"
+  },
+  "onboarding": {
+    "welcomeTitle": "Bienvenido a FinanSmart",
+    "welcomeDesc": "Gestiona tus finanzas personales de forma simple y elegante.",
+    "alertsTitle": "Alertas y Presupuestos",
+    "alertsDesc": "Controla tus gastos y recibe alertas cuando te acerques al límite.",
+    "skip": "Saltar",
+    "next": "Siguiente",
+    "getStarted": "Comenzar"
+  },
+  "auth": {
+    "login": "Iniciar Sesión",
+    "signup": "Registrarse",
+    "emailPlaceholder": "Email",
+    "passwordPlaceholder": "Contraseña",
+    "enter": "Entrar",
+    "createAccount": "Crear cuenta"
+  },
+  "dashboard": {
+    "hello": "Hola,",
+    "totalBalance": "Balance Total",
+    "today": "Hoy",
+    "income": "Ingresos",
+    "expense": "Gastos",
+    "weeklySummary": "Resumen Semanal",
+    "recentTransactions": "Transacciones Recientes",
+    "import": "Importar",
+    "importTitle": "Importar Transacciones (arreglo JSON)",
+    "importApply": "Aplicar"
+  },
+  "budgets": {
+    "monthlyBudget": "Presupuesto Mensual",
+    "total": "Total",
+    "percentSpent": "{percent}% gastado",
+    "categories": "Categorías",
+    "create": "Crear Nuevo Presupuesto",
+    "set": "Establecer",
+    "divisions": "Divisiones",
+    "createDivisions": "Divisiones predeterminadas",
+    "clearDivisions": "Limpiar Divisiones",
+    "noDivisions": "No hay divisiones creadas aún.",
+    "info": "Presupuesto",
+    "usingDefault": "Usando los presupuestos predeterminados del proyecto. Puedes establecer un presupuesto mensual arriba.",
+    "addDivision": "Agregar División",
+    "addDivisionTitle": "Nueva División",
+    "divisionName": "Nombre de la división (ej. categories.food o 'extras')",
+    "divisionTotal": "Monto de la división"
+    ,"resetMonth":"Reiniciar Mes",
+    "clearDivisions":"Limpiar Divisiones",
+    "clearConfirmation":"¿Remover todas las divisiones? Esto no se puede deshacer."
+    ,"editDivisionTitle":"Editar División"
+  },
+  "transactions": {
+    "search": "Buscar",
+    "newTransaction": "Nueva Transacción",
+    "cancel": "Cancelar",
+    "expense": "Gasto",
+    "income": "Ingreso",
+    "save": "Guardar",
+    "categoryPlaceholder": "Categoría",
+    "notePlaceholder": "Nota (opcional)",
+    "today": "Hoy",
+    "yesterday": "Ayer"
+  },
+  "common": {
+    "create": "Crear",
+    "cancel": "Cancelar",
+    "search": "Buscar",
+    "reset": "Reiniciar"
+    ,"resetToZero": "Reiniciar a 0"
+  },
+  "categories": {
+    "food": "Comida",
+    "transport": "Transporte",
+    "entertainment": "Entretenimiento",
+    "home": "Hogar",
+    "general": "General",
+    "work": "Trabajo"
+  }
+}
